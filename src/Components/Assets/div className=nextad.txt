@@ -1,0 +1,23 @@
+<div className="nextad">
+              <div className="secondad p-3">
+                <img src="images/coffeemachine.jpg" className="ads" alt="coffeemachine" />
+                <div className="secondad-text">
+                  <Link className="button">BUY NOW</Link>
+                  <p>Starting from<br /> Rs 12500/-</p>
+                </div>
+              </div>
+              </div>
+
+
+.secondad{
+  position: relative;
+}
+
+.secondad-text{
+  position: absolute;
+  top: 10%;
+  left: 5%;
+  color: white;
+  font-weight: bold;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
