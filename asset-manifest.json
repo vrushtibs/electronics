@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/electronics/static/css/main.5c2b463e.css",
+    "main.js": "/electronics/static/js/main.1451f107.js",
+    "static/media/offer.png": "/electronics/static/media/offer.36f89a3ea99c7bb44687.png",
+    "static/media/headphones_banner.jpg": "/electronics/static/media/headphones_banner.a12c969dabe0d2b38563.jpg",
+    "static/media/cameras_banner.jpg": "/electronics/static/media/cameras_banner.c9025ffd9cd8eba0dcc0.jpg",
+    "static/media/latestphone.png": "/electronics/static/media/latestphone.b3c97e740057f974dcd9.png",
+    "static/media/speakers_banner.jpg": "/electronics/static/media/speakers_banner.5f676fd9d5559d69faa0.jpg",
+    "index.html": "/electronics/index.html",
+    "main.5c2b463e.css.map": "/electronics/static/css/main.5c2b463e.css.map",
+    "main.1451f107.js.map": "/electronics/static/js/main.1451f107.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c2b463e.css",
+    "static/js/main.1451f107.js"
+  ]
+}
